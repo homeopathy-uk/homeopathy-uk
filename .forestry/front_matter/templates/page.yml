@@ -75,3 +75,5 @@ fields:
     required: false
   label: Opengraph type
   default: website
+pages:
+- content/homeopathy-uk/about-homeopathy-uk.md
