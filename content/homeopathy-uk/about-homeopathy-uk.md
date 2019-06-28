@@ -8,7 +8,6 @@ meta_document_title: ''
 meta_description: ''
 categories: []
 featured_image: ''
-draft: true
 
 ---
 **Who we are**
