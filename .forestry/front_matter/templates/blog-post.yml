@@ -58,3 +58,20 @@ fields:
       path: categories
   label: Categories
   description: Select categories that best categorise this post
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Tag the content of this post with applicable free-form tags
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
+  label: Featured image
+  description: Select an image to represent this post in listings
+- name: opengraph_type
+  type: text
+  config:
+    required: true
+  label: Opengraph type
+  default: article
