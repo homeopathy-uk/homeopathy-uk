@@ -17,3 +17,11 @@ fields:
     max: '24'
   label: Categories
   description: Dictionary of categories that can be used for all content on site
+- name: sitemap_exclude
+  type: text
+  config:
+    required: true
+  label: Sitemap exclude
+  hidden: true
+  description: Exclude page from generated sitemap file
+  default: 'true'
