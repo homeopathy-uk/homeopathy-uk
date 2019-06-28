@@ -54,7 +54,7 @@ fields:
     source:
       type: documents
       section: categories-298e0b4d-3dd6-420f-b488-a25a1bb4e758
-      file: content/categories/categories-dictionary.md
+      file: content/category-dictionaries/categories-dictionary.md
       path: categories
   label: Categories
   description: Select categories that best apply to this page
