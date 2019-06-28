@@ -1,6 +1,7 @@
 ---
 label: Blog post
 hide_body: false
+display_field: title
 fields:
 - name: title
   type: text
@@ -18,3 +19,13 @@ fields:
     time_format: hh:mm
     display_utc: false
   default: now
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
+  description: Write a brief summary of this page for listings
