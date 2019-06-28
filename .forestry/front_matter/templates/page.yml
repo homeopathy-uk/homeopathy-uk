@@ -1,4 +1,20 @@
 ---
 label: Page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: The title appears in searches, browser tabs and as the page heading
+- name: date
+  type: datetime
+  label: Date
+  description: The page creation/authoring date
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: hh:mm
+    display_utc: false
+  default: now
