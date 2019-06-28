@@ -45,3 +45,33 @@ fields:
       format: markdown
   label: Meta description
   description: Metadata description to display in search engine results
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: categories
+      file: content/categories-dictionary.md
+      path: categories
+  label: Categories
+  description: Select categories that best apply to this page
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Categorise the content of this page with applicable free-form tags
+- name: featured_image
+  type: file
+  config:
+    maxSize: 250
+  label: Featured image
+  description: Select an image to represent this page in listings
+- name: opengraph_type
+  type: text
+  config:
+    required: false
+  label: Opengraph type
+  default: website
