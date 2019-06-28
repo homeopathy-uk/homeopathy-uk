@@ -45,3 +45,16 @@ fields:
       format: markdown
   label: Meta description
   description: Metadata description to display in search engine results
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: documents
+      section: categories
+      file: content/categories-dictionary.md
+      path: categories
+  label: Categories
+  description: Select categories that best categorise this post
