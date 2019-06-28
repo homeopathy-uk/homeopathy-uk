@@ -17,9 +17,9 @@ kind = "home"
           <h2>Homeopathy</h2>
         </a>
 
-        <div><a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-1.html">Variant 1: teaser panel grid only</a></div>
-        <div><a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-2.html">Variant 2: hybrid, teaser panel and body copy</a></div>
-        <a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-3.html">Variant 3: hybrid, text menu and body copy</a>
+        <div><a class="huk-teaser__panel-link" href="/homeopathy/v1/homeopathy/">Variant 1: teaser panel grid only</a></div>
+        <div><a class="huk-teaser__panel-link" href="/homeopathy/v2/homeopathy/">Variant 2: hybrid, teaser panel and body copy</a></div>
+        <a class="huk-teaser__panel-link" href="/homeopathy-uk/v3/homeopathy/">Variant 3: hybrid, text menu and body copy</a>
 
       </div>
     </div>
