@@ -22,6 +22,8 @@
       <link href="{{ relURL (printf "%s%s" "dist/" .) }}" rel="stylesheet">
     {{ end }}
 
+      <link rel="stylesheet" href="https://use.typekit.net/nwy1gqn.css">
+
     {{ range .Site.Params.custom_css }}
       <link rel="stylesheet" href="{{ relURL ($.Site.BaseURL) }}{{ . }}">
     {{ end }}

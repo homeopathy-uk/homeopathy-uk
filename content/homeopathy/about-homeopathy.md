@@ -1,10 +1,17 @@
-+++
-categories = ["Featured articles"]
-date = "2019-06-12T23:00:00+00:00"
-summary = "What is homeopathy? "
-title = "About homeopathy "
+---
+date: 2019-06-12T23:00:00+00:00
+tags: []
+opengraph_type: website
+title: About homeopathy
+summary: What is homeopathy?
+meta_document_title: ''
+meta_description: ''
+categories: ["Featured articles"]
+featured_image: ''
+type: page
 
-+++
+---
+
 ![](https://res.cloudinary.com/homeopathyuk/image/upload/ar_21:9,c_fill,w_1280,g_south/c_scale,w_auto,dpr_auto/v1560948431/xyyacuw0rxmuevxlkuqu.jpg)
 
 **What is homeopathy?**
