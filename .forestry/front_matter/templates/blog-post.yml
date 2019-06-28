@@ -35,3 +35,13 @@ fields:
     required: false
   label: Meta document title
   description: Metadata title to display on search engines
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
+  description: Metadata description to display in search engine results
