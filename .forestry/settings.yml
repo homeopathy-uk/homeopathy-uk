@@ -23,7 +23,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  exclude: posts/**/*
+  exclude: posts/**/*,categories/**/*
   templates:
   - page
 upload_dir: ''
