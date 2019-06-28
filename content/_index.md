@@ -3,6 +3,7 @@ date = "2019-06-19T14:30:16+00:00"
 opengraph_type = "website"
 slug = "homeopathy-uk"
 title = "Homeopathy UK"
+kind = "home"
 
 +++
 <div class="huk-teaser__grid-container">
@@ -15,6 +16,10 @@ title = "Homeopathy UK"
         <a class="huk-teaser__panel-link" href="/homeopathy/about-homeopathy/">
           <h2>Homeopathy</h2>
         </a>
+        <div><a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-1.html">Variant 1: teaser panel grid only</a></div>
+        <div><a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-2.html">Variant 2: hybrid, teaser panel and body copy</a></div>
+        <div><a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-3.html">Variant 3: hybrid, text menu and body copy</a></div>
+
       </div>
     </div>
   </div>
@@ -27,15 +32,12 @@ title = "Homeopathy UK"
         <a class="huk-teaser__panel-link" href="/homeopathy-uk/">
           <h2>Homeopathy UK</h2>
         </a>
-        <a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-1.html">Variant 1: teaser panel grid only</a>
-        <a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-2.html">Variant 2: hybrid, teaser panel and body copy</a>
-        <a class="huk-teaser__panel-link" href="/homeopathy-uk/variant-3.html">Variant 3: hybrid, text menu and body copy</a>
       </div>
     </div>
   </div>
   <div class="huk-teaser--right-col">
     <figure class="huk-teaser__figure">
-      <img class="huk-teaser__image" src="https://res.cloudinary.com/homeopathyuk/image/upload/ar_16:9,c_fill,w_1280/c_scale,w_auto,dpr_auto/v1560948431/rq49uxg9g9hwrsfpeoxa.jpg" />
+      <img class="huk-teaser__image" src="https://res.cloudinary.com/homeopathyuk/image/upload/ar_16:9,c_fill,w_1280/c_scale,w_auto,dpr_auto/v1560948431/dvq8dgrv5jdddvmyn361.jpg" />
     </figure>
     <div class="huk-teaser__panel blue-bg white-fg">
       <div class="huk-teaser__panel--inner">
