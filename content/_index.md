@@ -1,5 +1,5 @@
 +++
-date = "2019-06-28T11:23:16+00:00"
+date = "2019-06-19T14:30:16+00:00"
 opengraph_type = "website"
 slug = "homeopathy-uk"
 title = "Homeopathy UK"
