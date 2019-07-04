@@ -76,4 +76,5 @@ fields:
   label: Opengraph type
   default: website
 pages:
+- content/homeopathy/history/the-history-of-homeopathy.md
 - content/homeopathy-uk/about-homeopathy-uk.md
