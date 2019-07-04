@@ -10,6 +10,8 @@ categories: []
 featured_image: ''
 
 ---
+![](https://res.cloudinary.com/homeopathyuk/v1558717963/bha/Washington-Monument-SarekofVulcan.wikimedia.jpg)
+
 **History**
 
 The notion of ‘like cures like’ can be traced back to the Greek physician, Hippocrates (460-377BC), who also placed great importance on the idea of treating each patient as an individual. However**,** it was not until the late 18th century that the two ideas were combined to create the system of medicine that we know as homeopathy.
