@@ -4,6 +4,7 @@ opengraph_type = "website"
 slug = "homeopathy-uk"
 title = "Homeopathy UK"
 kind = "home"
+featured_image = "https://res.cloudinary.com/homeopathyuk/image/upload/ar_21:9,c_fill,w_1280/c_scale,w_auto,dpr_auto/v1562230368/phgdivbteynhsojrzzcv.jpg"
 
 +++
 <div class="huk-teaser__grid-container">

@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
 .co-text-regular,
 p, a, div, span, input, form, button {
     font-family: co-text, sans-serif !important;
-    font-weight: 400;
+    font-weight: 300;
     font-style: normal;
 }
 
