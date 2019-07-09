@@ -1,12 +1,42 @@
-+++
-date = "2019-06-19T14:30:16+00:00"
-opengraph_type = "website"
-slug = "homeopathy-uk"
-title = "Homeopathy UK"
-kind = "home"
-featured_image = "https://res.cloudinary.com/homeopathyuk/image/upload/ar_24:9,c_fill,w_1280/c_scale,w_auto,dpr_auto/v1562230368/phgdivbteynhsojrzzcv.jpg"
+---
+date: "2019-06-19T14:30:16+00:00"
+tags: []
+opengraph_type: website
+slug: homeopathy-uk
+title: Homeopathy UK
+summary: What is homeopathy?
+meta_document_title: ''
+meta_description: ''
+categories: ["Featured articles"]
+type: page
+featured_image: "https://res.cloudinary.com/homeopathyuk/image/upload/ar_16:9,c_fill,w_1280/c_scale,w_auto,dpr_auto/v1560948431/uc9riajbpnbhghonkxrr.jpg"
 
-+++
+---
+
+**Who we are**
+
+Homeopathy UK was founded in 1902 as the British Homeopathic Association. We are the United Kingdom’s leading homeopathic charity committed to the promotion and practice of homeopathy.
+
+**Our mission**
+
+<span class="mission-statement__item">to build greater awareness and use of homeopathy as an effective healthcare choice</span>
+
+<span class="mission-statement__item">to promote homeopathy and its practice</span>
+
+<span class="mission-statement__item">to fund research and training for homeopathic practitioners and medical professionals</span>
+
+<span class="mission-statement__item">to ensure that government, decision makers and healthcare professionals understand the benefits of homeopathy</span>
+
+**How we can help**
+
+We believe that everyone has the right to high-quality homeopathic healthcare and we offer subsidised treatment from our network of low-cost charitable clinics {LINK TO CLINICS PAGES}.
+
+Homeopathy UK also funds research and training for homeopathic practitioners and medical professionals {LINK TO GRANTS PAGES}
+
+**Support us**
+
+Homeopathy UK is funded entirely by our supporters. Donations help ensure the future of homoeopathy and fund our important work. Find out more about how you can support us here {LINK TO DONATIONS PAGE}
+
 <div class="huk-teaser__grid-container">
   <div class="huk-teaser--one-col">
     <figure class="huk-teaser__figure">

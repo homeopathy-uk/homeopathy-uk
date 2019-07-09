@@ -25,6 +25,12 @@
     font-style: italic;
 }
 
+.merriweather-light {
+    font-family: merriweather, serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
 .co-headline-regular,
 .header, .header a, .main-menu ul li a {
     font-family: co-headline, sans-serif !important;
@@ -36,6 +42,12 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: co-headline, sans-serif !important;
     font-weight: 700;
+    font-style: normal;
+}
+
+.co-headline-light {
+    font-family: co-headline,sans-serif;
+    font-weight: 300;
     font-style: normal;
 }
 
@@ -52,12 +64,25 @@ p, a, div, span, input, form, button {
     font-style: normal;
 }
 
+.co-text-light {
+    font-family: co-text, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Page styling */
+html,
+body {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
 .header {
     height: 5rem;
 }
-.logo {
-    width: 15rem;
 
+.logo--image {
+    height: 6rem;
 }
 
 .header, .header a, .main-menu ul li a {
@@ -100,7 +125,8 @@ p, a, div, span, input, form, button {
 }
 
 .huk-teaser__panel-link {
-    color: white;
+    color: white !important;
+    text-decoration: none;
 }
 
 .huk-teaser__panel--inner {
@@ -185,6 +211,11 @@ p, a, div, span, input, form, button {
     font-size: 18px;
 }
 
+body {
+    background-color: rgba(205, 197, 167, 0.5) !important;
+}
+
+
 .title-1 {
     color: white !important;
     position: absolute;
@@ -197,4 +228,10 @@ p, a, div, span, input, form, button {
 
 p img {
     width: 100%;
+}
+
+.mission-statement__item {
+    display: block;
+    width: 85%;
+    margin: 0 auto;
 }
