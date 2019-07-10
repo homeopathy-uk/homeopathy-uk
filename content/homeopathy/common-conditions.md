@@ -7,7 +7,7 @@ summary: ''
 meta_document_title: ''
 meta_description: ''
 categories: []
-featured_image: ''
+featured_image: "/v1562688374/mdygceuef5zzpbsykm0u.jpg"
 draft: true
 
 ---
