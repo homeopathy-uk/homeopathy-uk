@@ -76,6 +76,7 @@ fields:
   label: Opengraph type
   default: website
 pages:
+- content/homeopathy/common-conditions.md
 - content/homeopathy/how-homeopathy-can-help/how-homeopathy-can-help.md
 - content/homeopathy/history/the-history-of-homeopathy.md
 - content/homeopathy-uk/about-homeopathy-uk.md
