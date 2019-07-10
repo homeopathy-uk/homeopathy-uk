@@ -47,7 +47,7 @@ Homeopathy has been practiced worldwide for over 250 years. It is gentle and rar
     </figure>
     <div class="huk-teaser__panel purple-bg white-fg">
       <div class="huk-teaser__panel--inner">
-        <a class="huk-teaser__panel-link" href="/homeopathy-uk/">
+        <a class="huk-teaser__panel-link" href="/homeopathy/how-homeopathy-can-help/how-homeopathy-can-help/">
           <h2>How homeopathy can help</h2>
         </a>
       </div>

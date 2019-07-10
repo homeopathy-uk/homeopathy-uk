@@ -7,7 +7,7 @@ summary: ''
 meta_document_title: ''
 meta_description: ''
 categories: []
-featured_image: ''
+featured_image: 'https://res.cloudinary.com/homeopathyuk/image/upload/ar_16:9,c_fill,w_1280/c_scale,w_auto,dpr_auto/v1560948431/x67ozva2hlfywmnipire.jpg'
 
 ---
 Homeopathic doctors often see patients with long-term, chronic problems, many of which have failed to respond to conventional medicine. Homeopathy has been successfully used to treat a range of illnesses and conditions including: eczema, chronic fatigue syndrome, osteoarthritis, anxiety attacks, asthma, irritable bowel syndrome, and menopausal symptoms. It can also be effective in the treatment of minor ailments, from cuts and bruises to coughs and colds. Homeopathy is also popular with patients who want to limit the side-effects of standard cancer treatments.
