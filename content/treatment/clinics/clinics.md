@@ -1,5 +1,5 @@
 ---
-date: 2019-07-11T06:02:12+00:00
+date: 2019-07-11T06:00:00+00:00
 tags: []
 opengraph_type: website
 title: 'Clinics '
