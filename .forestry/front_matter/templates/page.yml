@@ -77,7 +77,6 @@ fields:
   default: website
 pages:
 - content/treatment/clinics/clinics.md
-- content/homeopathy/common-conditions.md
 - content/homeopathy/how-homeopathy-can-help/how-homeopathy-can-help.md
 - content/homeopathy/history/the-history-of-homeopathy.md
 - content/homeopathy-uk/about-homeopathy-uk.md
