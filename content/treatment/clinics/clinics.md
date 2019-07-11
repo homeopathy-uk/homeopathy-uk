@@ -11,7 +11,7 @@ featured_image: ''
 draft: true
 
 ---
-## Bath Homeopathy 
+## Bath Homeopathy
 
 ## Open one Wednesday a month, 9am–12pm
 
