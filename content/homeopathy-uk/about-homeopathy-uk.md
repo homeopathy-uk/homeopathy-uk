@@ -1,5 +1,5 @@
 ---
-date: 2019-06-26T13:31:04+00:00
+date: 2019-06-26T13:31:04.000+00:00
 tags: []
 opengraph_type: website
 title: 'About Homeopathy UK '
@@ -16,13 +16,16 @@ Homeopathy UK was founded in 1902 as the British Homeopathic Association. We are
 
 **Our mission**
 
-to build greater awareness and use of homeopathy as an effective healthcare choice
+* to build greater awareness and use of homeopathy as an effective healthcare choice
 
-to promote homeopathy and its practice
 
-to fund research and training for homeopathic practitioners and medical professionals
+* to promote homeopathy and its practice
 
-to ensure that government, decision makers and healthcare professionals understand the benefits of homeopathy
+
+* to fund research and training for homeopathic practitioners and medical professionals
+
+
+* to ensure that government, decision makers and healthcare professionals understand the benefits of homeopathy
 
 **How we can help**
 
