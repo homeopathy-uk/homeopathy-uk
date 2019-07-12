@@ -76,6 +76,7 @@ fields:
   label: Opengraph type
   default: website
 pages:
+- content/treatment/clinics/bath-homeopathy.md
 - content/treatment/clinics/norwich-homeopathy.md
 - content/homeopathy-uk/about-homeopathy-uk.md
 - content/treatment/common-conditions/common-condition-helped-by-homeopathy.md
