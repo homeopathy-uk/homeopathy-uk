@@ -76,6 +76,7 @@ fields:
   label: Opengraph type
   default: website
 pages:
+- content/treatment/clinics/edinburgh-homeopathy.md
 - content/treatment/clinics/bath-homeopathy.md
 - content/treatment/clinics/norwich-homeopathy.md
 - content/homeopathy-uk/about-homeopathy-uk.md
