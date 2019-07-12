@@ -13,7 +13,7 @@ draft: true
 ---
 **About the clinic**
 
-EdinburghHomeopathy opened its doors on 6th October 2017. Although patients are not charged, they are encouraged to make donations towards their treatment. All donations go directly to the clinic.
+Edinburgh Homeopathy opened its doors on 6th October 2017. Although patients are not charged, they are encouraged to make donations towards their treatment. All donations go directly to the clinic.
 
 **Karen Hooton** RSCN BSc(Hons) FFHom(Nurse)
 
@@ -21,8 +21,7 @@ The clinic is managed by Karen Hooton. Karen graduated from Edinburgh Napier Uni
 
 **Make an appointment**
 
-  
-Edinburgh Homeopathy is based at Mulberry House, 21 Manor Place, Edinburgh EH3 7DX. The clinic opens two Fridays a month, 10am–1pm. Plus one Friday a month, 1–4pm. To make an appointment call 0131 01225 2012. 
+Edinburgh Homeopathy is based at Mulberry House, 21 Manor Place, Edinburgh EH3 7DX. The clinic opens two Fridays a month, 10am–1pm. Plus one Friday a month, 1–4pm. To make an appointment call 0131 01225 2012.
 
 {SEE THE CLINIC ON A MAP}
 
