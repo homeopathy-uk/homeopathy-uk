@@ -21,8 +21,7 @@ The clinic is managed by Dr Domnita Neagu, who is a member of the Faculty of Hom
 
 **Make an appointment**
 
-Bath Homeopathy is atThe Practice Rooms, 26 Upper Borough Walls  
-Bath, BA1 1RH. To book an appointment telephone 0117 317 1482 or e-mail  
+Bath Homeopathy is at The Practice Rooms, 26 Upper Borough Walls Bath, BA1 1RH. The clinic opens one Wednesday a month, 9am–12pm. To book an appointment telephone 0117 317 1482 or e-mail  
 enquiries@portlandcentrehealthcare.co.uk
 
 {SEE THE CLINIC ON A MAP}
