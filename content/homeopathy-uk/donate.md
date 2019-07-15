@@ -2,7 +2,7 @@
 date: 2019-07-15T15:28:58+00:00
 tags: []
 opengraph_type: website
-title: 'Donate '
+title: 'Donate to Homeopathy UK '
 summary: ''
 meta_document_title: ''
 meta_description: ''
