@@ -27,4 +27,4 @@ Join us now by downloading the application form here {LINK TO DONOR APPLICATION 
 
 Or telephone Homeopathy UK on (0)203 640 5903 for more information.
 
-More ways to support us 
+**More ways to support us**
