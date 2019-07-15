@@ -76,12 +76,12 @@ fields:
   label: Opengraph type
   default: website
 pages:
+- content/homeopathy-uk/about-homeopathy-uk.md
 - content/treatment/clinics/york-homeopathy.md
 - content/treatment/clinics/liverpool-homeopathy.md
 - content/treatment/clinics/edinburgh-homeopathy.md
 - content/treatment/clinics/bath-homeopathy.md
 - content/treatment/clinics/norwich-homeopathy.md
-- content/homeopathy-uk/about-homeopathy-uk.md
 - content/treatment/common-conditions/common-condition-helped-by-homeopathy.md
 - content/treatment/clinics/clinics.md
 - content/homeopathy/how-homeopathy-can-help/how-homeopathy-can-help.md

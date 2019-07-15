@@ -17,14 +17,8 @@ Homeopathy UK was founded in 1902 as the British Homeopathic Association. We are
 **Our mission**
 
 * to build greater awareness and use of homeopathy as an effective healthcare choice
-
-
 * to promote homeopathy and its practice
-
-
 * to fund research and training for homeopathic practitioners and medical professionals
-
-
 * to ensure that government, decision makers and healthcare professionals understand the benefits of homeopathy
 
 **How we can help**
@@ -35,4 +29,4 @@ Homeopathy UK also funds research and training for homeopathic practitioners and
 
 **Support us**
 
-Homeopathy UK is funded entirely by our supporters. Donations help ensure the future of homoeopathy and fund our important work. Find out more about how you can support us here {LINK TO DONATIONS PAGE}
+    Homeopathy UK is funded entirely by our supporters. Donations help ensure the future of homoeopathy and fund our important work. Find out more about how you can support us here {LINK TO DONATIONS PAGE}
