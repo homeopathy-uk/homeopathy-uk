@@ -76,7 +76,6 @@ fields:
   label: Opengraph type
   default: website
 pages:
-- content/links/pharmacies/pharmacies-and-hospitals-1.md
 - content/links/pharmacies/pharmacies-and-hospitals.md
 - content/homeopathy-uk/amazon-smile.md
 - content/homeopathy-uk/donate.md
