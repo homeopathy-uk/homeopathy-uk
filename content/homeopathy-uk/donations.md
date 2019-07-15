@@ -11,7 +11,7 @@ featured_image: ''
 draft: true
 
 ---
-Homeopathy UK is funded entirely by our supporters. Your donations help ensure the future of homoeopathy and fund our important work. There a number you can help support our important work.
+Homeopathy UK is funded entirely by our supporters. Your donations help ensure the future of homoeopathy and fund our important work. There are a number of ways you can help support our important work.
 
 **Become part of the Homeopathy UK community**
 
@@ -32,7 +32,7 @@ Or telephone Homeopathy UK on (0)203 640 5903 for more information.
   
 **Leave a legacy**
 
-By remembering Homeopathy UK in your will, you can help ensure that the benefits of homeopathy are available forgenerations to come. It will cost you nothing today but will make all the difference to the future of Homeopathy UK.
+By remembering Homeopathy UK in your will, you can help ensure that the benefits of homeopathy are available for generations to come. It will cost you nothing today but will make all the difference to the future of Homeopathy UK.
 
 #### Making a pledge
 
