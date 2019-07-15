@@ -76,6 +76,7 @@ fields:
   label: Opengraph type
   default: website
 pages:
+- content/homeopathy-uk/donations.md
 - content/homeopathy-uk/about-homeopathy-uk.md
 - content/treatment/clinics/york-homeopathy.md
 - content/treatment/clinics/liverpool-homeopathy.md
