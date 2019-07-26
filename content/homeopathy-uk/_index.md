@@ -105,25 +105,3 @@ Homeopathy UK is funded entirely by our supporters. Donations help ensure the fu
 </div>
 </div>
 </div>
-
-**Our Patrons**
-
-HRH The Duke of Gloucester KG GCVO  
-Professor David Bellamy OBE  
-Jean Boht  
-Charles Collingwood  
-Annabel Croft  
-Carl Davis CBE  
-Susan Hampshire CBE  
-Dame Lesley Lawson (Twiggy)  
-Debbie Moore OBE  
-Dame Julie Walters
-
-**Our Trustees**
-
-Margaret Wyllie – Chairman  
-John Morgan – Deputy Chairman  
-Robert Orchard  
-Richard O’Quinn  
-Gary Smyth  
-Elizabeth Tucker
